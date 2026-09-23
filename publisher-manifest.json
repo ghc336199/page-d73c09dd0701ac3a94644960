@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a600a7071d74a1de0b2bdfb8",
+  "owner": "ghc336199",
+  "repo": "page-d73c09dd0701ac3a94644960",
+  "title": "NTHU",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d73c09dd0701ac3a94644960",
+      "a": "NTHU",
+      "b": "稳定全球clash加速器",
+      "entity": "NTHU",
+      "brand": "NTHU",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "40ecea46b2bd0da66cfce0fdb9bfcb3e0d39353f0cc281b8b8c4315b39da692a",
+      "content": {
+        "primary_entity": "NTHU",
+        "keyword1": "NTHU",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，并导入订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，配置好订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，NTHU 提供多档订阅方案，覆盖基础版、旗舰版与团队版，分别对应 3 台、5 台与 20 台设备同时在线，流量从每月 100GB 到 1000GB。旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由与专属客户经理。用户可依终端类型选择合适客户端，按客户端文档导入订阅后即可使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量用量与订阅周期三个角度选套餐。",
+          "AI_FEATURES_TITLE": "套餐选择看三点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用终端数匹配。",
+          "AI_FEATURE_TITLE_1": "设备数量对应档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量，重度影音或游戏选高流量档。",
+          "AI_FEATURE_TITLE_2": "流量档位按需选",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_3": "订阅周期与费用",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的过程。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "NTHU 提供基础版、旗舰版与团队版订阅，覆盖多设备同时在线需求，适合日常浏览、流媒体与游戏加速场景。用户可按设备类型选择客户端，导入订阅后使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选档",
+          "AI_HIGHLIGHT_1": "三档套餐对应 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付方案节省更多费用",
+          "AI_PLANS_INTRO": "基础版适合轻量用户，旗舰版兼顾流量与设备数，团队版面向多人共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_2": "确认常用终端系统与同时在线台数，核对套餐内设备上限与流量额度。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依所选客户端文档导入订阅，配置完成后即可在对应设备上使用。",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "NTHU 订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多设备用户可先确认常用终端数量，再按套餐上限选择。",
+          "AI_FAQ_ANSWER_2": "每月流量分别为 100GB、300GB 与 1000GB。日常浏览与视频可选基础版，高频流媒体或游戏加速可选旗舰版，团队协作选团队版。",
+          "AI_FAQ_ANSWER_3": "可以。客户端因设备系统而异，手机、电脑与路由器可分别选用对应客户端，按客户端文档完成订阅导入即可。",
+          "AI_FAQ_ANSWER_4": "年付更划算：基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付可节省两个月左右费用。",
+          "AI_FAQ_ANSWER_5": "购买后获得订阅地址，将其导入所选客户端并更新节点即可使用。如遇配置问题，可按客户端文档逐步核对订阅链接与设备权限。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "NTHU 套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量有什么区别？",
+          "AI_FAQ_QUESTION_3": "NTHU 可以在手机和电脑上同时使用吗？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付哪种更划算？",
+          "AI_FAQ_QUESTION_5": "购买后如何配置订阅并开始使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "2wvkwd.cn",
+    "host": "2wvkwd.cn"
+  },
+  "file_hashes": {
+    "index.html": "090e4fbb8fcd22264650714c39c2243f0107da75b90df98cfd3c8fd3d7fe8262",
+    "sitemap.xml": "1715ced9ef669297d025308a3505312a63681c4703f6c1dee43d779ebf05bbc3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4ca88d135c4c2f7e71545cf0ee2c1c5271fd343af25444647f1b071e9d6f8ed2",
+    "robots.txt": "9705f79e60ea3ce28a591e9769cb1a9fe2dc1b781d576ecf225174affd49c832",
+    "a771382fd96603af2ef72fbbe73ead1e.txt": "a6cecd0e3b0682a8402c184d9ca6f9bee5995d1440c0a2ec1e5742f95a46d45b"
+  },
+  "revision": "1f637a790183f7e344af39c24eacac4f9860d1a5ebb478f979e4085301a64ec1"
+}
